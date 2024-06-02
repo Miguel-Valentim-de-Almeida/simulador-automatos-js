@@ -1,0 +1,15 @@
+aababababbbababa;0
+abc;0
+aba  c;1
+a;0
+ab;1
+abc;0
+c;0
+ ;0
+  b;1
+a b;0
+ab a;0
+b;0
+a b a;0
+ c;1
+ ca aba   b;1
